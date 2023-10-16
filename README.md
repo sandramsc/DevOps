@@ -13,6 +13,6 @@ This repository contains the completed labs for the IBM DevOps and Software Engi
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
 
 ## License
-[![GitLicense](https://img.shields.io/badge/License-Apache-lime.svg)](https://github.com/sandramsc/ibm-devops-and-software-engineering /blob/master/LICENSE.md)
+[![GitLicense](https://img.shields.io/badge/License-Apache-lime.svg)](https://github.com/sandramsc/IBM-DevOps-and-Software-Engineering/blob/main/LICENSE)
 
 
