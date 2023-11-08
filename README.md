@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">IBM-DevOps-and-Software-Engineering </h1>
+  <h1 align="center">DevOps</h1>
 
 ## Application Description
 
