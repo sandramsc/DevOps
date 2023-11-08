@@ -4,7 +4,7 @@
 ## Application Description
 
 
-This repository contains the completed labs for the IBM DevOps and Software Engineering curriculum offered by [Coursera](https://www.coursera.org/professional-certificates/devops-and-software-engineering).
+This repository contains the completed labs for the IBM DevOps and Software Engineering curriculum offered by IBM through [Coursera](https://www.coursera.org/professional-certificates/devops-and-software-engineering).
 
 ## Authors
 
